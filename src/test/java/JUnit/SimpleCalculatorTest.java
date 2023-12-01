@@ -1,5 +1,6 @@
 package JUnit;
 
+import JUnit.codingwithjohn.SimpleCalculator;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

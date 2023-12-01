@@ -1,4 +1,4 @@
-package JUnit;
+package JUnit.codingwithjohn;
 
 /*
 -----Tutorial-----
